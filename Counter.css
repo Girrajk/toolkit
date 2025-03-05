@@ -1,0 +1,26 @@
+.main{
+    border: 5px groove rgba(255, 68, 0, 0.952);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 25px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 7px black;
+    background-image: linear-gradient(to right,rgba(209, 6, 6, 0.527), rgba(25, 201, 25, 0.603));
+
+}
+.main{
+    font-weight: bold;
+}
+
+.main button{
+    cursor: pointer;
+
+    height: 30px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 255, 0.247);
+}
